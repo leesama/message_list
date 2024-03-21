@@ -2,7 +2,7 @@
 
 All notable changes to this project will be documented in this file.
 
-## [0.0.1] - 2024-03-19
+## [1.0.0] - 2024-03-19
 ### Added
 - Initial release of the message_list package.
 - Implemented ChatController for managing chat messages and states.
